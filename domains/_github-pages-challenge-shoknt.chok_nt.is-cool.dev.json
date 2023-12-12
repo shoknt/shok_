@@ -1,0 +1,15 @@
+{
+  "domain": "is-cool.dev",
+  "subdomain": "_github-pages-challenge-shoknt.chok_nt",
+
+  "owner": {
+    "repo": "https://github.com/shoknt/shok_/",
+    "email": "rtdd02741@gmail.com"
+  },
+
+  "record": {
+    "TXT": ["9700441c7ea64d958e334bcbdce41c"]
+  },
+
+  "proxied": false
+}
